@@ -56,7 +56,6 @@ TYPE: JPEG
 
 [Apple Makernote - 0x0001] Unknown tag (0x0001) = 11
 [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
-[Apple Makernote - 0x0003] Run Time = [104 values]
 [Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
 [Apple Makernote - 0x0005] Unknown tag (0x0005) = 181
 [Apple Makernote - 0x0006] Unknown tag (0x0006) = 183
@@ -78,6 +77,11 @@ TYPE: JPEG
 [Apple Makernote - 0x0026] Unknown tag (0x0026) = 1
 [Apple Makernote - 0x0027] Unknown tag (0x0027) = 373028/17865
 [Apple Makernote - 0x002b] Unknown tag (0x002b) = 3EACC06A-BCCE-4140-B280-AD809A7F4AD9
+
+[Apple Run Time - 0x0001] Flags = Valid
+[Apple Run Time - 0x0002] Epoch = 0
+[Apple Run Time - 0x0003] Scale = 1000000000
+[Apple Run Time - 0x0004] Value = 456054 seconds
 
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
@@ -124,6 +128,7 @@ TYPE: JPEG
 - Exif IFD0
     - Exif SubIFD
         - Apple Makernote
+            - Apple Run Time
     - Exif Thumbnail
 - ICC Profile
 - Huffman

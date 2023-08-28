@@ -166,7 +166,6 @@ TYPE: HEIF
 
 [Apple Makernote - 0x0001] Unknown tag (0x0001) = 14
 [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
-[Apple Makernote - 0x0003] Run Time = [104 values]
 [Apple Makernote - 0x0004] Unknown tag (0x0004) = 0
 [Apple Makernote - 0x0005] Unknown tag (0x0005) = 184
 [Apple Makernote - 0x0006] Unknown tag (0x0006) = 193
@@ -204,7 +203,12 @@ TYPE: HEIF
 [Apple Makernote - 0x0041] Unknown tag (0x0041) = [42 values]
 [Apple Makernote - 0x004a] Unknown tag (0x004a) = 5
 
-[File Type - 0x0001] Detected File Type Name = HEIC
+[Apple Run Time - 0x0001] Flags = Valid
+[Apple Run Time - 0x0002] Epoch = 0
+[Apple Run Time - 0x0003] Scale = 1000000000
+[Apple Run Time - 0x0004] Value = 159802 seconds
+
+[File Type - 0x0001] Detected File Type Name = HEIF
 [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
 [File Type - 0x0003] Detected MIME Type = image/heic
 [File Type - 0x0004] Expected File Name Extension = heic
@@ -224,6 +228,7 @@ TYPE: HEIF
 - Exif IFD0
     - Exif SubIFD
         - Apple Makernote
+            - Apple Run Time
 - File Type
 - File
 

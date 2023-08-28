@@ -84,7 +84,6 @@ TYPE: TIFF
 
 [Apple Makernote - 0x0001] Unknown tag (0x0001) = 14
 [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
-[Apple Makernote - 0x0003] Run Time = [104 values]
 [Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
 [Apple Makernote - 0x0005] Unknown tag (0x0005) = 177
 [Apple Makernote - 0x0006] Unknown tag (0x0006) = 182
@@ -135,6 +134,11 @@ TYPE: TIFF
 [Apple Makernote - 0x0049] Unknown tag (0x0049) = 0
 [Apple Makernote - 0x004a] Unknown tag (0x004a) = 2
 
+[Apple Run Time - 0x0001] Flags = Valid
+[Apple Run Time - 0x0002] Epoch = 0
+[Apple Run Time - 0x0003] Scale = 1000000000
+[Apple Run Time - 0x0004] Value = 159625 seconds
+
 [File Type - 0x0001] Detected File Type Name = TIFF
 [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
 [File Type - 0x0003] Detected MIME Type = image/tiff
@@ -148,6 +152,7 @@ TYPE: TIFF
     - Exif SubIFD
     - Exif SubIFD
         - Apple Makernote
+            - Apple Run Time
 - File Type
 - File
 

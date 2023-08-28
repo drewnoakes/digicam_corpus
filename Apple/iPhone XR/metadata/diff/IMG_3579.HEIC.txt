@@ -173,7 +173,6 @@ DOTNET [HEIC Thumbnail Data - 0x0002] Data Length = 5597
        
        [Apple Makernote - 0x0001] Unknown tag (0x0001) = 11
        [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
-       [Apple Makernote - 0x0003] Run Time = [104 values]
        [Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
        [Apple Makernote - 0x0005] Unknown tag (0x0005) = 181
        [Apple Makernote - 0x0006] Unknown tag (0x0006) = 186
@@ -197,14 +196,13 @@ DOTNET [HEIC Thumbnail Data - 0x0002] Data Length = 5597
        [Apple Makernote - 0x0027] Unknown tag (0x0027) = 160513/4893
        [Apple Makernote - 0x0028] Unknown tag (0x0028) = 1
        [Apple Makernote - 0x002b] Unknown tag (0x002b) = B359B255-0C8D-4E32-A185-89D46D58DD63
-JAVA   
-JAVA   [Apple Run Time - 0x0001] Flags = Valid
-JAVA   [Apple Run Time - 0x0002] Epoch = 0
-JAVA   [Apple Run Time - 0x0003] Scale = 1000000000
-JAVA   [Apple Run Time - 0x0004] Value = 456053 seconds
        
-JAVA   [File Type - 0x0001] Detected File Type Name = HEIF
-DOTNET [File Type - 0x0001] Detected File Type Name = HEIC
+       [Apple Run Time - 0x0001] Flags = Valid
+       [Apple Run Time - 0x0002] Epoch = 0
+       [Apple Run Time - 0x0003] Scale = 1000000000
+       [Apple Run Time - 0x0004] Value = 456053 seconds
+       
+       [File Type - 0x0001] Detected File Type Name = HEIF
        [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
 JAVA   [File Type - 0x0003] Detected MIME Type = image/heif
 JAVA   [File Type - 0x0004] Expected File Name Extension = heif
@@ -228,7 +226,7 @@ DOTNET - HEIC Thumbnail Data
        - Exif IFD0
            - Exif SubIFD
                - Apple Makernote
-JAVA               - Apple Run Time
+                   - Apple Run Time
        - File Type
        - File
        
