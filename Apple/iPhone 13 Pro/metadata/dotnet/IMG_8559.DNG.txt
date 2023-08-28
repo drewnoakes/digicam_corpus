@@ -1,0 +1,155 @@
+FILE: IMG_8559.DNG
+TYPE: TIFF
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
+[Exif IFD0 - 0x0100] Image Width = 4032 pixels
+[Exif IFD0 - 0x0101] Image Height = 3024 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = JPEG
+[Exif IFD0 - 0x0106] Photometric Interpretation = YCbCr
+[Exif IFD0 - 0x010f] Make = Apple
+[Exif IFD0 - 0x0110] Model = iPhone 13 Pro
+[Exif IFD0 - 0x0111] Strip Offsets = 3073448
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 3024 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 2598541 bytes
+[Exif IFD0 - 0x0131] Software = 15.0
+[Exif IFD0 - 0x0132] Date/Time = 2021:09:27 07:11:33
+[Exif IFD0 - 0xc612] Unknown tag (0xc612) = 1 6 0 0
+[Exif IFD0 - 0xc613] Unknown tag (0xc613) = 1 3 0 0
+[Exif IFD0 - 0xc614] Unknown tag (0xc614) = iPhone14,2 back camera
+[Exif IFD0 - 0xc621] Unknown tag (0xc621) = 1304769664/1073741824 -618962048/1073741824 -251945680/1073741824 -483143168/1073741824 1623867264/1073741824 -45361124/1073741824 -54117956/1073741824 185938000/1073741824 669270848/1073741824
+[Exif IFD0 - 0xc622] Unknown tag (0xc622) = 965722688/1073741824 -359561248/1073741824 -131840512/1073741824 -451049312/1073741824 1405131008/1073741824 94166152/1073741824 -118681048/1073741824 259432048/1073741824 489003936/1073741824
+[Exif IFD0 - 0xc627] Unknown tag (0xc627) = 2038169600/1073741824 1073741824/1073741824 1107689472/536870912
+[Exif IFD0 - 0xc628] Unknown tag (0xc628) = 1073741824/1073741824 1073741824/1073741824 1073741824/1073741824
+[Exif IFD0 - 0xc62a] Unknown tag (0xc62a) = 8608625/2097152
+[Exif IFD0 - 0xc62c] Unknown tag (0xc62c) = 1.5
+[Exif IFD0 - 0xc65a] Unknown tag (0xc65a) = 17
+[Exif IFD0 - 0xc65b] Unknown tag (0xc65b) = 21
+[Exif IFD0 - 0xc6f7] Unknown tag (0xc6f7) = 15938355/16777216
+[Exif IFD0 - 0xc6f8] Unknown tag (0xc6f8) = Apple Embedded Color Profile
+[Exif IFD0 - 0xc6fc] Unknown tag (0xc6fc) = [514 values]
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x0100] Image Width = 4032 pixels
+[Exif SubIFD - 0x0101] Image Height = 3024 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 12 12 12 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = JPEG
+[Exif SubIFD - 0x0106] Photometric Interpretation = Unknown colour space
+[Exif SubIFD - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif SubIFD - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif SubIFD - 0x0142] Tile Width = 504
+[Exif SubIFD - 0x0143] Tile Length = 378
+[Exif SubIFD - 0x0144] Tile Offsets = [64 values]
+[Exif SubIFD - 0x0145] Tile Byte Counts = [64 values]
+[Exif SubIFD - 0xc618] Unknown tag (0xc618) = [4096 values]
+[Exif SubIFD - 0xc61a] Unknown tag (0xc61a) = 0 0 0
+[Exif SubIFD - 0xc61d] Unknown tag (0xc61d) = 65535 65535 65535
+[Exif SubIFD - 0xc761] Unknown tag (0xc761) = 0 0
+[Exif SubIFD - 0xc7a6] Unknown tag (0xc7a6) = 1
+[Exif SubIFD - 0xcd2d] Unknown tag (0xcd2d) = [3059392 values]
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/129 sec
+[Exif SubIFD - 0x829d] F-Number = f/1.5
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 32
+[Exif SubIFD - 0x9000] Exif Version = 2.32
+[Exif SubIFD - 0x9003] Date/Time Original = 2021:09:27 07:11:33
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2021:09:27 07:11:33
+[Exif SubIFD - 0x9010] Time Zone = -06:00
+[Exif SubIFD - 0x9011] Time Zone Original = -06:00
+[Exif SubIFD - 0x9012] Time Zone Digitized = -06:00
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/128 sec
+[Exif SubIFD - 0x9202] Aperture Value = f/1.5
+[Exif SubIFD - 0x9203] Brightness Value = 5.425
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 5.7 mm
+[Exif SubIFD - 0x9214] Subject Location = 2009 1506 2208 1327
+[Exif SubIFD - 0x9291] Sub-Sec Time Original = 737
+[Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 737
+[Exif SubIFD - 0xa002] Exif Image Width = 4032 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 3024 pixels
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa405] Focal Length 35 = 26 mm
+[Exif SubIFD - 0xa432] Lens Specification = 299253/190607-9mm f/1.5-2.8
+[Exif SubIFD - 0xa433] Lens Make = Apple
+[Exif SubIFD - 0xa434] Lens Model = iPhone 13 Pro back triple camera 5.7mm f/1.5
+[Exif SubIFD - 0xa460] Unknown tag (0xa460) = 2
+
+[Apple Makernote - 0x0001] Unknown tag (0x0001) = 14
+[Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
+[Apple Makernote - 0x0003] Run Time = [104 values]
+[Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
+[Apple Makernote - 0x0005] Unknown tag (0x0005) = 177
+[Apple Makernote - 0x0006] Unknown tag (0x0006) = 182
+[Apple Makernote - 0x0007] Unknown tag (0x0007) = 1
+[Apple Makernote - 0x0008] Acceleration Vector = 0.01g right, 0.02g up, 1.00g backward
+[Apple Makernote - 0x000c] Unknown tag (0x000c) = 95/256 71/256
+[Apple Makernote - 0x000d] Unknown tag (0x000d) = 22
+[Apple Makernote - 0x000e] Unknown tag (0x000e) = 0
+[Apple Makernote - 0x0010] Unknown tag (0x0010) = 1
+[Apple Makernote - 0x0014] Unknown tag (0x0014) = 10
+[Apple Makernote - 0x0017] Live Photo ID = 1112547584
+[Apple Makernote - 0x0019] Unknown tag (0x0019) = 65538
+[Apple Makernote - 0x001a] Unknown tag (0x001a) = q900n
+[Apple Makernote - 0x001f] Unknown tag (0x001f) = 0
+[Apple Makernote - 0x0020] Unknown tag (0x0020) = D4D11C26-DAD7-42BA-ACCE-71ED7E95C322
+[Apple Makernote - 0x0021] Unknown tag (0x0021) = 50529/44842
+[Apple Makernote - 0x0023] Unknown tag (0x0023) = 25 268435502
+[Apple Makernote - 0x0025] Unknown tag (0x0025) = 138
+[Apple Makernote - 0x0026] Unknown tag (0x0026) = 3
+[Apple Makernote - 0x0027] Unknown tag (0x0027) = 270713/5602
+[Apple Makernote - 0x0028] Unknown tag (0x0028) = 1
+[Apple Makernote - 0x002b] Unknown tag (0x002b) = CBC1A00A-9204-4D0C-998B-EBE4FBC182A0
+[Apple Makernote - 0x002d] Unknown tag (0x002d) = 4195
+[Apple Makernote - 0x002e] Unknown tag (0x002e) = 1
+[Apple Makernote - 0x002f] Unknown tag (0x002f) = 133
+[Apple Makernote - 0x0030] Unknown tag (0x0030) = 0
+[Apple Makernote - 0x0033] Unknown tag (0x0033) = 4096
+[Apple Makernote - 0x0034] Unknown tag (0x0034) = 4
+[Apple Makernote - 0x0035] Unknown tag (0x0035) = 3
+[Apple Makernote - 0x0036] Unknown tag (0x0036) = 2658
+[Apple Makernote - 0x0037] Unknown tag (0x0037) = 4
+[Apple Makernote - 0x0038] Unknown tag (0x0038) = 24
+[Apple Makernote - 0x0039] Unknown tag (0x0039) = 0
+[Apple Makernote - 0x003a] Unknown tag (0x003a) = 0
+[Apple Makernote - 0x003b] Unknown tag (0x003b) = 0
+[Apple Makernote - 0x003c] Unknown tag (0x003c) = 4
+[Apple Makernote - 0x003d] Unknown tag (0x003d) = 11
+[Apple Makernote - 0x003e] Unknown tag (0x003e) = [80 values]
+[Apple Makernote - 0x003f] Unknown tag (0x003f) = 0
+[Apple Makernote - 0x0040] Unknown tag (0x0040) = [74 values]
+[Apple Makernote - 0x0041] Unknown tag (0x0041) = [42 values]
+[Apple Makernote - 0x0042] Unknown tag (0x0042) = [42 values]
+[Apple Makernote - 0x0043] Unknown tag (0x0043) = 0
+[Apple Makernote - 0x0044] Unknown tag (0x0044) = 0
+[Apple Makernote - 0x0045] Unknown tag (0x0045) = 0
+[Apple Makernote - 0x0046] Unknown tag (0x0046) = 0
+[Apple Makernote - 0x0048] Unknown tag (0x0048) = 0
+[Apple Makernote - 0x0049] Unknown tag (0x0049) = 0
+[Apple Makernote - 0x004a] Unknown tag (0x004a) = 2
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = IMG_8559.DNG
+[File - 0x0002] File Size = 29131603 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif SubIFD
+    - Exif SubIFD
+        - Apple Makernote
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

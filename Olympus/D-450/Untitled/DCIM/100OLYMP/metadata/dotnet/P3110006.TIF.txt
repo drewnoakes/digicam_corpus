@@ -1,0 +1,68 @@
+FILE: P3110006.TIF
+TYPE: ARW
+
+[Exif IFD0 - 0x0100] Image Width = 1280 pixels
+[Exif IFD0 - 0x0101] Image Height = 960 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Uncompressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x010e] Image Description = OLYMPUS DIGITAL CAMERA         
+[Exif IFD0 - 0x010f] Make = OLYMPUS OPTICAL CO.,LTD
+[Exif IFD0 - 0x0110] Model = C920Z,D450Z
+[Exif IFD0 - 0x0111] Strip Offsets = [60 values]
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 16 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 61440 bytes
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = v873-75
+[Exif IFD0 - 0x0132] Date/Time = 2021:03:11 19:35:10
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/11 sec
+[Exif SubIFD - 0x829d] F-Number = f/2.8
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 320
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original = 2021:03:11 19:35:10
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2021:03:11 19:35:10
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 5.6 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+
+[Olympus Makernote - 0x0100] Thumbnail Image = [2083 values]
+[Olympus Makernote - 0x0200] Special Mode = Unknown picture taking mode / 4294967295th in a sequence
+[Olympus Makernote - 0x0201] JPEG Quality = Uncompressed
+[Olympus Makernote - 0x0202] Macro = Normal (no macro)
+[Olympus Makernote - 0x0203] BW Mode = Off
+[Olympus Makernote - 0x0204] Digital Zoom = 1
+[Olympus Makernote - 0x0205] Focal Plane Diagonal = 1 mm
+[Olympus Makernote - 0x0206] Lens Distortion Parameters = -1 -1 -1 -1 -1 -1
+[Olympus Makernote - 0x0207] Camera Type = �����
+[Olympus Makernote - 0x0208] Pict Info = ����������������������������������������������������
+[Olympus Makernote - 0x0209] Camera Id = ��������������������������������
+[Olympus Makernote - 0x0f00] Data Dump = [30 values]
+
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
+[File - 0x0001] File Name = P3110006.TIF
+[File - 0x0002] File Size = 3692472 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif SubIFD
+        - Olympus Makernote
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

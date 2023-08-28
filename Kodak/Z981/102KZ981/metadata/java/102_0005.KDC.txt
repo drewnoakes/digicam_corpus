@@ -1,0 +1,101 @@
+FILE: 102_0005.KDC
+TYPE: ARW
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0103] Compression = JPEG
+[Exif IFD0 - 0x0106] Photometric Interpretation = YCbCr
+[Exif IFD0 - 0x010f] Make = EASTMAN KODAK COMPANY
+[Exif IFD0 - 0x0110] Model = KODAK EasyShare Z981 Digital Camera    
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 480 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 480 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0200] JPEG Proc = Baseline
+[Exif IFD0 - 0x0201] Unknown tag (0x0201) = 20895744
+[Exif IFD0 - 0x0202] Unknown tag (0x0202) = 4534506
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+[Exif IFD0 - 0x4746] Rating = 0
+[Exif IFD0 - 0x9c9e] Windows XP Keywords = 
+[Exif IFD0 - 0xfe00] Unknown tag (0xfe00) = 2444
+[Exif IFD0 - 0xfe01] Unknown tag (0xfe01) = 8
+[Exif IFD0 - 0xfe02] Unknown tag (0xfe02) = 1 0 0 0
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x0103] Compression = Uncompressed
+[Exif SubIFD - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif SubIFD - 0x0116] Rows Per Strip = 16 rows/strip
+[Exif SubIFD - 0x011a] X Resolution = 480 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 480 dots per inch
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0xfd00] Unknown tag (0xfd00) = 4224
+[Exif SubIFD - 0xfd01] Unknown tag (0xfd01) = 3152
+[Exif SubIFD - 0xfd02] Unknown tag (0xfd02) = 65484
+[Exif SubIFD - 0xfd03] Unknown tag (0xfd03) = 32803
+[Exif SubIFD - 0xfd04] Unknown tag (0xfd04) = [202 values]
+[Exif SubIFD - 0xfd05] Unknown tag (0xfd05) = 32803
+[Exif SubIFD - 0xfd06] Unknown tag (0xfd06) = [202 values]
+[Exif SubIFD - 0xfd07] Unknown tag (0xfd07) = 1
+[Exif SubIFD - 0xfd08] Unknown tag (0xfd08) = 2 2
+[Exif SubIFD - 0xfd09] Unknown tag (0xfd09) = 1 0 2 1
+[Exif SubIFD - 0xfd0b] Unknown tag (0xfd0b) = 0
+[Exif SubIFD - 0xfd0c] Unknown tag (0xfd0c) = 1
+[Exif SubIFD - 0xfd0d] Unknown tag (0xfd0d) = 16 -4096 4112 32
+[Exif SubIFD - 0xfd0e] Unknown tag (0xfd0e) = 4304
+[Exif SubIFD - 0xfd0f] Unknown tag (0xfd0f) = 3192
+[Exif SubIFD - 0xfd10] Unknown tag (0xfd10) = 103232 103232
+[Exif SubIFD - 0xfd11] Unknown tag (0xfd11) = 4240
+[Exif SubIFD - 0xfd12] Unknown tag (0xfd12) = 3158
+[Exif SubIFD - 0xfd13] Unknown tag (0xfd13) = 103232 103232
+[Exif SubIFD - 0xfd14] Unknown tag (0xfd14) = -64
+[Exif SubIFD - 0xfd15] Unknown tag (0xfd15) = 3899
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/30 sec
+[Exif SubIFD - 0x829d] F-Number = f/2.8
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 80
+[Exif SubIFD - 0x9000] Exif Version = 2.21
+[Exif SubIFD - 0x9003] Date/Time Original = 2010:01:01 12:16:24
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2010:01:01 12:16:24
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/29 sec
+[Exif SubIFD - 0x9202] Aperture Value = f/2.8
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
+[Exif SubIFD - 0x9207] Metering Mode = Partial
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 4.6 mm
+[Exif SubIFD - 0x927c] Makernote = [4122 values]
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa215] Exposure Index = 80
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used
+[Exif SubIFD - 0xa405] Focal Length 35 = 26 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa407] Gain Control = None
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
+
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
+[File - 0x0001] File Name = 102_0005.KDC
+[File - 0x0002] File Size = 25430250 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif SubIFD
+    - Exif SubIFD
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

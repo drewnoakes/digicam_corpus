@@ -1,0 +1,104 @@
+FILE: IMG_3616.mov
+TYPE: QUICKTIME
+
+[QuickTime File Type - 0x0001] Major Brand = qt  
+[QuickTime File Type - 0x0002] Minor Version = 0
+[QuickTime File Type - 0x0003] Compatible Brands = qt
+
+[QuickTime Movie Header - 0x0001] Version = 0
+[QuickTime Movie Header - 0x0002] Flags = 0 0 0
+[QuickTime Movie Header - 0x0003] Created = Fri Apr 17 16:04:38 2020
+[QuickTime Movie Header - 0x0004] Modified = Fri Apr 17 16:04:40 2020
+[QuickTime Movie Header - 0x0005] TrackId = 600
+[QuickTime Movie Header - 0x0006] Duration = 00:00:03.0100000
+[QuickTime Movie Header - 0x0007] Preferred Rate = 1
+[QuickTime Movie Header - 0x0008] Preferred Volume = 1
+[QuickTime Movie Header - 0x0009] Matrix = [36 values]
+[QuickTime Movie Header - 0x000a] Preview Time = 0
+[QuickTime Movie Header - 0x000b] Preview Duration = 0
+[QuickTime Movie Header - 0x000c] Poster Time = 0
+[QuickTime Movie Header - 0x000d] Selection Time = 0
+[QuickTime Movie Header - 0x000e] Selection Duration = 0
+[QuickTime Movie Header - 0x000f] Current Time = 0
+[QuickTime Movie Header - 0x0010] Next Track Id = 5
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Fri Apr 17 16:04:38 2020
+[QuickTime Track Header - 0x0004] Modified = Fri Apr 17 16:04:40 2020
+[QuickTime Track Header - 0x0005] TrackId = 1
+[QuickTime Track Header - 0x0006] Duration = 1805
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 0
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 1440
+[QuickTime Track Header - 0x000b] Height = 1080
+[QuickTime Track Header - 0x000d] Rotation = 0
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Fri Apr 17 16:04:38 2020
+[QuickTime Track Header - 0x0004] Modified = Fri Apr 17 16:04:40 2020
+[QuickTime Track Header - 0x0005] TrackId = 2
+[QuickTime Track Header - 0x0006] Duration = 1806
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 1
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 0
+[QuickTime Track Header - 0x000b] Height = 0
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Fri Apr 17 16:04:38 2020
+[QuickTime Track Header - 0x0004] Modified = Fri Apr 17 16:04:40 2020
+[QuickTime Track Header - 0x0005] TrackId = 3
+[QuickTime Track Header - 0x0006] Duration = 1806
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 0
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 0
+[QuickTime Track Header - 0x000b] Height = 0
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Fri Apr 17 16:04:38 2020
+[QuickTime Track Header - 0x0004] Modified = Fri Apr 17 16:04:40 2020
+[QuickTime Track Header - 0x0005] TrackId = 4
+[QuickTime Track Header - 0x0006] Duration = 842
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 0
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 0
+[QuickTime Track Header - 0x000b] Height = 0
+
+[QuickTime Metadata Header - 0x001f] Content Identifier = E701F16E-EDC3-420C-B5B3-3408626DCBA6
+[QuickTime Metadata Header - 0x0015] Make = Apple
+[QuickTime Metadata Header - 0x0016] Model = iPhone XR
+[QuickTime Metadata Header - 0x0011] Software = 13.4.1
+[QuickTime Metadata Header - 0x0007] Creation Date = Sat Apr 18 02:04:38 +10:00 2020
+
+[File Type - 0x0001] Detected File Type Name = QuickTime
+[File Type - 0x0002] Detected File Type Long Name = QuickTime
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = IMG_3616.mov
+[File - 0x0002] File Size = 2506397 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime File Type
+- QuickTime Movie Header
+- QuickTime Track Header
+- QuickTime Track Header
+- QuickTime Track Header
+- QuickTime Track Header
+- QuickTime Metadata Header
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

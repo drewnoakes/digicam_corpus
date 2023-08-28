@@ -1,0 +1,193 @@
+FILE: IMGP6672.JPG
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1600 pixels
+[JPEG - 0x0003] Image Width = 2400 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010f] Make = PENTAX Corporation 
+[Exif IFD0 - 0x0110] Model = PENTAX *ist DL     
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = *ist DL     Ver 1.00   
+[Exif IFD0 - 0x0132] Date/Time = 2020:03:06 09:57:01
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/90 sec
+[Exif SubIFD - 0x829d] F-Number = f/4.5
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 200
+[Exif SubIFD - 0x9000] Exif Version = 2.21
+[Exif SubIFD - 0x9003] Date/Time Original = 2020:03:06 09:57:01
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2020:03:06 09:57:01
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 35 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 2400 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1600 pixels
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa405] Focal Length 35 = 52 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa40c] Subject Distance Range = Macro
+
+[Casio Makernote - 0x0001] Unknown tag (0x0001) = 0
+[Casio Makernote - 0x0002] Thumbnail Dimensions = 640 x 480 pixels
+[Casio Makernote - 0x0003] Thumbnail Size = 30028 bytes
+[Casio Makernote - 0x0004] Thumbnail Offset = 2220
+[Casio Makernote - 0x0005] Unknown tag (0x0005) = 76570
+[Casio Makernote - 0x0006] Unknown tag (0x0006) = 7 228 3 6
+[Casio Makernote - 0x0007] Unknown tag (0x0007) = 9 57 1
+[Casio Makernote - 0x0008] Quality Mode = Fine
+[Casio Makernote - 0x0009] Image Size = 
+[Casio Makernote - 0x000c] Unknown tag (0x000c) = 1
+[Casio Makernote - 0x000d] Focus Mode = Unknown (16)
+[Casio Makernote - 0x000e] Unknown tag (0x000e) = 65535
+[Casio Makernote - 0x0012] Unknown tag (0x0012) = 1111
+[Casio Makernote - 0x0013] Unknown tag (0x0013) = 45
+[Casio Makernote - 0x0014] ISO Sensitivity = 200
+[Casio Makernote - 0x0016] Unknown tag (0x0016) = 50
+[Casio Makernote - 0x0017] Unknown tag (0x0017) = 0
+[Casio Makernote - 0x0018] Unknown tag (0x0018) = 0
+[Casio Makernote - 0x0019] White Balance = Auto
+[Casio Makernote - 0x001a] Unknown tag (0x001a) = 1
+[Casio Makernote - 0x001d] Focal Length = 350 mm
+[Casio Makernote - 0x001f] Saturation = 
+[Casio Makernote - 0x0020] Contrast = 
+[Casio Makernote - 0x0021] Sharpness = 
+[Casio Makernote - 0x0022] Unknown tag (0x0022) = 0
+[Casio Makernote - 0x0023] Unknown tag (0x0023) = 12
+[Casio Makernote - 0x0024] Unknown tag (0x0024) = 12
+[Casio Makernote - 0x0025] Unknown tag (0x0025) = 0
+[Casio Makernote - 0x0026] Unknown tag (0x0026) = 0
+[Casio Makernote - 0x0027] Unknown tag (0x0027) = 254 255 255 254
+[Casio Makernote - 0x0028] Unknown tag (0x0028) = 254 255 255 254
+[Casio Makernote - 0x002b] Unknown tag (0x002b) = 15360
+[Casio Makernote - 0x002c] Unknown tag (0x002c) = 0
+[Casio Makernote - 0x002d] Unknown tag (0x002d) = 10624
+[Casio Makernote - 0x0032] Unknown tag (0x0032) = 0 0 0 0
+[Casio Makernote - 0x0033] Unknown tag (0x0033) = 2 0 0
+[Casio Makernote - 0x0034] Unknown tag (0x0034) = 0 0 0 0
+[Casio Makernote - 0x0035] Unknown tag (0x0035) = 12012 7987
+[Casio Makernote - 0x0036] Unknown tag (0x0036) = 128
+[Casio Makernote - 0x0037] Unknown tag (0x0037) = 0
+[Casio Makernote - 0x003a] Unknown tag (0x003a) = 18022
+[Casio Makernote - 0x003d] Unknown tag (0x003d) = 8192
+[Casio Makernote - 0x003e] Unknown tag (0x003e) = 26 26 0 0
+[Casio Makernote - 0x003f] Unknown tag (0x003f) = 3 20
+[Casio Makernote - 0x0041] Unknown tag (0x0041) = 0
+[Casio Makernote - 0x0047] Unknown tag (0x0047) = 23
+[Casio Makernote - 0x0048] Unknown tag (0x0048) = 0
+[Casio Makernote - 0x0049] Unknown tag (0x0049) = 0
+[Casio Makernote - 0x004f] Unknown tag (0x004f) = 1
+[Casio Makernote - 0x005d] Unknown tag (0x005d) = 241 34 190 2
+[Casio Makernote - 0x0200] Unknown tag (0x0200) = 35328 10400 650 40
+[Casio Makernote - 0x0201] Unknown tag (0x0201) = 40962 35328 10400 650
+[Casio Makernote - 0x0202] Unknown tag (0x0202) = 40 40962 35328 10400
+[Casio Makernote - 0x0205] Unknown tag (0x0205) = 2 138 0 40 160 2 138 0 40 160 2 138 0 40 160 2
+[Casio Makernote - 0x0206] Unknown tag (0x0206) = 138 0 40 160 2 138 0 40 160 2 138 0 40 160
+[Casio Makernote - 0x0207] Unknown tag (0x0207) = [36 values]
+[Casio Makernote - 0x0208] Unknown tag (0x0208) = [28 values]
+[Casio Makernote - 0x0209] Unknown tag (0x0209) = 138 0 40 160 2 138 0 40 160 2 138 0 40 160 2 138
+[Casio Makernote - 0x020a] Unknown tag (0x020a) = 0 40 160 2 138 0 40 160 2 138 0 40 160 2 138 0
+[Casio Makernote - 0x020b] Unknown tag (0x020b) = 40 160 15 121 255 0 133 117 225 79 250 5 127 228 196 191
+[Casio Makernote - 0x020d] Unknown tag (0x020d) = 64597 14460 14832 42877
+[Casio Makernote - 0x020e] Unknown tag (0x020e) = 11263 38 9727 226
+[Casio Makernote - 0x020f] Unknown tag (0x020f) = 43979 63221 15261 57034
+[Casio Makernote - 0x0210] Unknown tag (0x0210) = 7555 65045 53125 13311
+[Casio Makernote - 0x0211] Unknown tag (0x0211) = 32 40956 39063 65280
+[Casio Makernote - 0x0212] Unknown tag (0x0212) = 35488 64569 61592 7401
+[Casio Makernote - 0x0213] Unknown tag (0x0213) = 24569 13103 65280 5447
+[Casio Makernote - 0x0214] Unknown tag (0x0214) = 54826 30479 25870 49679
+[Casio Makernote - 0x0215] Unknown tag (0x0215) = 2273186793 4254465792 2467495680 4048846786 3153106783
+[Casio Makernote - 0x0216] Unknown tag (0x0216) = 236 161 255 0 129 18
+[Casio Makernote - 0x021f] Unknown tag (0x021f) = 241 84 125 98 167 112 246 80 236 31 240 175
+[Casio Makernote - 0x03ff] Unknown tag (0x03ff) = 15397 36857 1407 58564 49148 21767 57831 33971 33189 32375 4863 241 21629 25255 28918 20716
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[PrintIM - 0x0000] PrintIM Version = 0300
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x01000000
+[PrintIM - 0x0003] Unknown tag (0x0003) = 0x000000d6
+[PrintIM - 0x0007] Unknown tag (0x0007) = 0x00000000
+[PrintIM - 0x0008] Unknown tag (0x0008) = 0x00000000
+[PrintIM - 0x0009] Unknown tag (0x0009) = 0x00000000
+[PrintIM - 0x000a] Unknown tag (0x000a) = 0x00000000
+[PrintIM - 0x000b] Unknown tag (0x000b) = 0x0000011e
+[PrintIM - 0x000c] Unknown tag (0x000c) = 0x00000000
+[PrintIM - 0x000d] Unknown tag (0x000d) = 0x00000000
+[PrintIM - 0x000e] Unknown tag (0x000e) = 0x00000134
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x05000000
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0xff000000
+[PrintIM - 0x0102] Unknown tag (0x0102) = 0x83000000
+[PrintIM - 0x0103] Unknown tag (0x0103) = 0x83000000
+[PrintIM - 0x0104] Unknown tag (0x0104) = 0x83000000
+[PrintIM - 0x0105] Unknown tag (0x0105) = 0x83000000
+[PrintIM - 0x0106] Unknown tag (0x0106) = 0x83000000
+[PrintIM - 0x0107] Unknown tag (0x0107) = 0x80808000
+[PrintIM - 0x0110] Unknown tag (0x0110) = 0x80000000
+[PrintIM - 0x0200] Unknown tag (0x0200) = 0x00000000
+[PrintIM - 0x0207] Unknown tag (0x0207) = 0x00000000
+[PrintIM - 0x0208] Unknown tag (0x0208) = 0x00000000
+[PrintIM - 0x0209] Unknown tag (0x0209) = 0x00000000
+[PrintIM - 0x020a] Unknown tag (0x020a) = 0x00000000
+[PrintIM - 0x020b] Unknown tag (0x020b) = 0x00000144
+[PrintIM - 0x020d] Unknown tag (0x020d) = 0x00000000
+[PrintIM - 0x0300] Unknown tag (0x0300) = 0x05000000
+[PrintIM - 0x0301] Unknown tag (0x0301) = 0xff000000
+[PrintIM - 0x0302] Unknown tag (0x0302) = 0x83000000
+[PrintIM - 0x0303] Unknown tag (0x0303) = 0x83000000
+[PrintIM - 0x0306] Unknown tag (0x0306) = 0x83000000
+[PrintIM - 0x0310] Unknown tag (0x0310) = 0x80000000
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 56470 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 5226 bytes
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = IMGP6672.JPG
+[File - 0x0002] File Size = 620070 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Casio Makernote
+        - Interoperability
+    - PrintIM
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

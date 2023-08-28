@@ -1,0 +1,74 @@
+FILE: DC0012L.KDC
+TYPE: TIFF
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
+[Exif IFD0 - 0x0100] Image Width = 96 pixels
+[Exif IFD0 - 0x0101] Image Height = 64 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Uncompressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x010e] Image Description = DC0012L
+[Exif IFD0 - 0x010f] Make = Eastman Kodak Company
+[Exif IFD0 - 0x0110] Model = Kodak Digital Science DC50 Zoom Camera
+[Exif IFD0 - 0x0111] Strip Offsets = 1280
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 64 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 18432 bytes
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = DC50 Camera V1.1
+[Exif IFD0 - 0x0132] Date/Time = 1994:01:01 14:40:06
+[Exif IFD0 - 0x828f] Battery Level = Full
+[Exif IFD0 - 0x8290] Unknown tag (0x8290) = 1164
+[Exif IFD0 - 0x8298] Copyright = Kodak Digital Camera 50        
+[Exif IFD0 - 0x829a] Exposure Time = 3019/100000 sec
+[Exif IFD0 - 0x829d] F-Number = f/2.5
+[Exif IFD0 - 0x8822] Exposure Program = Program normal
+[Exif IFD0 - 0x882b] Self Timer Mode = 0
+[Exif IFD0 - 0x9206] Subject Distance = 0.7 metres
+[Exif IFD0 - 0x9209] Flash = Flash did not fire
+[Exif IFD0 - 0x920a] Focal Length = 37 mm
+[Exif IFD0 - 0x9211] Image Number = 12
+[Exif IFD0 - 0x9216] TIFF/EP Standard ID = 0 9 0 0
+[Exif IFD0 - 0x9217] Unknown tag (0x9217) = 2
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x0100] Image Width = 756 pixels
+[Exif SubIFD - 0x0101] Image Height = 504 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 8 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = Kodak KDC Compressed
+[Exif SubIFD - 0x0106] Photometric Interpretation = Color Filter Array
+[Exif SubIFD - 0x0111] Strip Offsets = 19712
+[Exif SubIFD - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif SubIFD - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif SubIFD - 0x0116] Rows Per Strip = 504 rows/strip
+[Exif SubIFD - 0x0117] Strip Byte Counts = 77752 bytes
+[Exif SubIFD - 0x011a] X Resolution = 72 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 72 dots per inch
+[Exif SubIFD - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
+[Exif SubIFD - 0x828e] CFA Pattern = [Green,Red][Blue,Green]
+[Exif SubIFD - 0x8291] Unknown tag (0x8291) = [174 values]
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 2.43 bits/pixel
+[Exif SubIFD - 0x9218] Unknown tag (0x9218) = 0/100000 18125/10000 -33650/100000 -47600/100000 0/100000 -43500/100000 18520/10000 -41700/100000 0/100000 -67600/100000 -13930/10000 30690/10000
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = DC0012L.KDC
+[File - 0x0002] File Size = 97464 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif SubIFD
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

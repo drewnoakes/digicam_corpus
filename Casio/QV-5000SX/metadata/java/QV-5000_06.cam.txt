@@ -1,0 +1,7 @@
+FILE: QV-5000_06.cam
+TYPE: UNKNOWN
+
+EXCEPTION: File format could not be determined
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

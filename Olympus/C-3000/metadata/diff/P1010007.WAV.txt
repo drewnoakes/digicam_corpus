@@ -1,0 +1,36 @@
+       FILE: P1010007.WAV
+       TYPE: WAV
+       
+JAVA   [WAV - 0x0006] Bits Per Sample = 8
+JAVA   [WAV - 0x0001] Format = Microsoft PCM
+JAVA   [WAV - 0x0002] Channels = 1
+JAVA   [WAV - 0x0003] Samples Per Second = 8000
+JAVA   [WAV - 0x0004] Bytes Per Second = 8000
+JAVA   [WAV - 0x0005] Block Alignment = 1
+DOTNET [WAVE Format - 0x0001] Format = PCM
+DOTNET [WAVE Format - 0x0002] Channels = 1
+DOTNET [WAVE Format - 0x0003] Sampling Rate = 8000 bps
+DOTNET [WAVE Format - 0x0004] Data Rate = 8000 bps
+DOTNET [WAVE Format - 0x0005] Data Block Size = 1
+DOTNET [WAVE Format - 0x0006] Bits Per Sample = 8
+JAVA   [WAV - 0x0008] Title =                
+JAVA   [WAV - 0x000b] Date Created = 0000-00-00
+JAVA   [WAV - 0x0010] Duration = 00:00:04
+       
+       [File Type - 0x0001] Detected File Type Name = WAV
+       [File Type - 0x0002] Detected File Type Long Name = Waveform Audio File Format
+       [File Type - 0x0003] Detected MIME Type = audio/vnd.wave
+       [File Type - 0x0004] Expected File Name Extension = wav
+       
+       [File - 0x0001] File Name = P1010007.WAV
+       [File - 0x0002] File Size = 32220 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - WAV
+DOTNET - WAVE Format
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

@@ -1,0 +1,73 @@
+FILE: A0000237.3FR
+TYPE: ARW
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
+[Exif IFD0 - 0x0100] Image Width = 320 pixels
+[Exif IFD0 - 0x0101] Image Height = 240 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Uncompressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x010f] Make = Hasselblad
+[Exif IFD0 - 0x0110] Model = Hasselblad H4D
+[Exif IFD0 - 0x0111] Strip Offsets = 2048
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 240 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 230400 bytes
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = 270:71:274:52:0:3:0:20:0.0.0
+[Exif IFD0 - 0x0132] Date/Time = 2020:03:05 15:27:10
+[Exif IFD0 - 0x8298] Copyright = Hasselblad H4D
+[Exif IFD0 - 0xc614] Unknown tag (0xc614) = Hasselblad H4D
+[Exif IFD0 - 0xc621] Unknown tag (0xc621) = 4928/8192 -1483/8192 9/8192 -3434/8192 10111/8192 1688/8192 -1336/8192 2606/8192 5764/8192
+[Exif IFD0 - 0xc628] Unknown tag (0xc628) = 8192/18374 8192/8192 8192/14757
+[Exif IFD0 - 0xc65d] Unknown tag (0xc65d) = 48 50 55 49 70 70 52 68 48 48 48 48 69 49 51 51
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x0100] Image Width = 6542 pixels
+[Exif SubIFD - 0x0101] Image Height = 4916 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 16 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = JPEG
+[Exif SubIFD - 0x0106] Photometric Interpretation = Color Filter Array
+[Exif SubIFD - 0x0111] Strip Offsets = 3672352
+[Exif SubIFD - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif SubIFD - 0x0116] Rows Per Strip = 4916 rows/strip
+[Exif SubIFD - 0x0117] Strip Byte Counts = 64320944 bytes
+[Exif SubIFD - 0xc61d] Unknown tag (0xc61d) = 65535
+[Exif SubIFD - 0xc61f] Unknown tag (0xc61f) = 24 20
+[Exif SubIFD - 0xc620] Unknown tag (0xc620) = 6496 4872
+[Exif SubIFD - 0xc632] Unknown tag (0xc632) = 0
+
+[XMP - 0xffff] XMP Value Count = 0
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/90 sec
+[Exif SubIFD - 0x829d] F-Number = f/2.8
+[Exif SubIFD - 0x8822] Exposure Program = Aperture priority
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original = 2020:03:05 15:27:10
+[Exif SubIFD - 0x9207] Metering Mode = Spot
+[Exif SubIFD - 0x920a] Focal Length = 80 mm
+[Exif SubIFD - 0x927c] Makernote = [428 values]
+[Exif SubIFD - 0xa420] Unique Image ID = 00000000000000000271FF4D0000E133
+
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
+[File - 0x0001] File Name = A0000237.3FR
+[File - 0x0002] File Size = 42752000 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif SubIFD
+    - XMP
+    - Exif SubIFD
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
