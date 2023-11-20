@@ -1,3 +1,4 @@
 * binary
 .* diff
-*.txt diff
+*.txt text diff text=auto eol=lf
+
