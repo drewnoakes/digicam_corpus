@@ -124,11 +124,11 @@ DOTNET [HEIC Thumbnail Properties - 0x0004] Pixel Depth in Bits = 8 8 8
 DOTNET 
 DOTNET [HEIC Thumbnail Data - 0x0001] Offset From Beginning of File = 3765
 DOTNET [HEIC Thumbnail Data - 0x0002] Data Length = 4608
-DOTNET 
+       
 DOTNET [XMP - 0xffff] XMP Value Count = 1
 DOTNET 
 DOTNET [XMPMeta - http://ns.apple.com/HDRGainMap/1.0/] HDRGainMap:HDRGainMapVersion = 65536
-       
+DOTNET 
        [Exif IFD0 - 0x010f] Make = Apple
        [Exif IFD0 - 0x0110] Model = iPhone 13 Pro
        [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -171,30 +171,47 @@ DOTNET [XMPMeta - http://ns.apple.com/HDRGainMap/1.0/] HDRGainMap:HDRGainMapVers
        [Exif SubIFD - 0xa434] Lens Model = iPhone 13 Pro front camera 2.71mm f/2.2
        [Exif SubIFD - 0xa460] Unknown tag (0xa460) = 2
        
-       [Apple Makernote - 0x0001] Unknown tag (0x0001) = 14
-       [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
-       [Apple Makernote - 0x0004] Unknown tag (0x0004) = 0
-       [Apple Makernote - 0x0005] Unknown tag (0x0005) = 184
-       [Apple Makernote - 0x0006] Unknown tag (0x0006) = 193
-       [Apple Makernote - 0x0007] Unknown tag (0x0007) = 1
+JAVA   [Apple Makernote - 0x0001] Unknown tag (0x0001) = 14
+JAVA   [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
+JAVA   [Apple Makernote - 0x0004] Unknown tag (0x0004) = 0
+JAVA   [Apple Makernote - 0x0005] Unknown tag (0x0005) = 184
+JAVA   [Apple Makernote - 0x0006] Unknown tag (0x0006) = 193
+JAVA   [Apple Makernote - 0x0007] Unknown tag (0x0007) = 1
+DOTNET [Apple Makernote - 0x0001] Makernote Version = 14
+DOTNET [Apple Makernote - 0x0002] AE Matrix = [558 values]
+DOTNET [Apple Makernote - 0x0004] AE Stable = No
+DOTNET [Apple Makernote - 0x0005] AE Target = 184
+DOTNET [Apple Makernote - 0x0006] AE Average = 193
+DOTNET [Apple Makernote - 0x0007] AF Stable = No
        [Apple Makernote - 0x0008] Acceleration Vector = 0.02g left, 0.01g up, 1.02g forward
        [Apple Makernote - 0x000e] Unknown tag (0x000e) = 0
-       [Apple Makernote - 0x0014] Unknown tag (0x0014) = 10
+JAVA   [Apple Makernote - 0x0014] Unknown tag (0x0014) = 10
+DOTNET [Apple Makernote - 0x0014] Image Capture Type = Photo
        [Apple Makernote - 0x0017] Live Photo ID = 1112547328
-       [Apple Makernote - 0x0019] Unknown tag (0x0019) = 2
-       [Apple Makernote - 0x001a] Unknown tag (0x001a) = q825s
+JAVA   [Apple Makernote - 0x0019] Unknown tag (0x0019) = 2
+JAVA   [Apple Makernote - 0x001a] Unknown tag (0x001a) = q825s
+DOTNET [Apple Makernote - 0x0019] Image Processing Flags = 2
+DOTNET [Apple Makernote - 0x001a] Quality Hint = q825s
        [Apple Makernote - 0x001f] Unknown tag (0x001f) = 0
-       [Apple Makernote - 0x0020] Unknown tag (0x0020) = 2E139FAD-280F-4884-BB42-E4E1EEBD8B80
-       [Apple Makernote - 0x0021] Unknown tag (0x0021) = 11149/12023
-       [Apple Makernote - 0x0025] Unknown tag (0x0025) = 650
-       [Apple Makernote - 0x0026] Unknown tag (0x0026) = 2
-       [Apple Makernote - 0x0027] Unknown tag (0x0027) = 58574/1913
+JAVA   [Apple Makernote - 0x0020] Unknown tag (0x0020) = 2E139FAD-280F-4884-BB42-E4E1EEBD8B80
+JAVA   [Apple Makernote - 0x0021] Unknown tag (0x0021) = 11149/12023
+JAVA   [Apple Makernote - 0x0025] Unknown tag (0x0025) = 650
+JAVA   [Apple Makernote - 0x0026] Unknown tag (0x0026) = 2
+JAVA   [Apple Makernote - 0x0027] Unknown tag (0x0027) = 58574/1913
+DOTNET [Apple Makernote - 0x0020] Image Capture Request ID = 2E139FAD-280F-4884-BB42-E4E1EEBD8B80
+DOTNET [Apple Makernote - 0x0021] HDR Headroom = 11149/12023
+DOTNET [Apple Makernote - 0x0025] Scene Flags = 650
+DOTNET [Apple Makernote - 0x0026] Signal-to-Noise Ratio Type = 2
+DOTNET [Apple Makernote - 0x0027] Signal-to-Noise Ratio = 58574/1913
        [Apple Makernote - 0x0028] Unknown tag (0x0028) = 1
-       [Apple Makernote - 0x002b] Unknown tag (0x002b) = 141441CC-4F62-4CF6-9247-B639A8EEF749
+JAVA   [Apple Makernote - 0x002b] Unknown tag (0x002b) = 141441CC-4F62-4CF6-9247-B639A8EEF749
+DOTNET [Apple Makernote - 0x002b] Photo Identifier = 141441CC-4F62-4CF6-9247-B639A8EEF749
        [Apple Makernote - 0x002d] Unknown tag (0x002d) = 3729
        [Apple Makernote - 0x002e] Unknown tag (0x002e) = 0
-       [Apple Makernote - 0x002f] Unknown tag (0x002f) = 0
-       [Apple Makernote - 0x0030] Unknown tag (0x0030) = 0
+JAVA   [Apple Makernote - 0x002f] Unknown tag (0x002f) = 0
+JAVA   [Apple Makernote - 0x0030] Unknown tag (0x0030) = 0
+DOTNET [Apple Makernote - 0x002f] Focus Position = 0
+DOTNET [Apple Makernote - 0x0030] HDR Gain = 0
        [Apple Makernote - 0x0031] Unknown tag (0x0031) = [88 values]
        [Apple Makernote - 0x0032] Unknown tag (0x0032) = 37758976
        [Apple Makernote - 0x0033] Unknown tag (0x0033) = 4096
@@ -205,9 +222,12 @@ DOTNET [XMPMeta - http://ns.apple.com/HDRGainMap/1.0/] HDRGainMap:HDRGainMapVers
        [Apple Makernote - 0x003a] Unknown tag (0x003a) = 0
        [Apple Makernote - 0x003b] Unknown tag (0x003b) = 0
        [Apple Makernote - 0x003c] Unknown tag (0x003c) = 1
-       [Apple Makernote - 0x003f] Unknown tag (0x003f) = 0
-       [Apple Makernote - 0x0040] Unknown tag (0x0040) = [74 values]
-       [Apple Makernote - 0x0041] Unknown tag (0x0041) = [42 values]
+JAVA   [Apple Makernote - 0x003f] Unknown tag (0x003f) = 0
+JAVA   [Apple Makernote - 0x0040] Unknown tag (0x0040) = [74 values]
+JAVA   [Apple Makernote - 0x0041] Unknown tag (0x0041) = [42 values]
+DOTNET [Apple Makernote - 0x003f] Green Ghost Mitigation Status = 0
+DOTNET [Apple Makernote - 0x0040] Semantic Style = [74 values]
+DOTNET [Apple Makernote - 0x0041] Semantic Style Rendering Ver = [42 values]
        [Apple Makernote - 0x004a] Unknown tag (0x004a) = 5
        
        [Apple Run Time - 0x0001] Flags = Valid

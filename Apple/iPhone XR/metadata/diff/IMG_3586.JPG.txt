@@ -1,0 +1,155 @@
+       FILE: IMG_3586.JPG
+       TYPE: JPEG
+       
+       [JPEG - 0xfffffffd] Compression Type = Baseline
+       [JPEG - 0x0000] Data Precision = 8 bits
+       [JPEG - 0x0001] Image Height = 3024 pixels
+       [JPEG - 0x0003] Image Width = 4032 pixels
+       [JPEG - 0x0005] Number of Components = 3
+       [JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+       [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+       [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+       
+       [Exif IFD0 - 0x010f] Make = Apple
+       [Exif IFD0 - 0x0110] Model = iPhone XR
+       [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+       [Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+       [Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+       [Exif IFD0 - 0x0128] Resolution Unit = Inch
+       [Exif IFD0 - 0x0131] Software = 13.4.1
+       [Exif IFD0 - 0x0132] Date/Time = 2020:04:17 10:03:42
+       [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+       
+       [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
+       [Exif SubIFD - 0x829d] F-Number = f/1.8
+       [Exif SubIFD - 0x8822] Exposure Program = Program normal
+       [Exif SubIFD - 0x8827] ISO Speed Ratings = 320
+       [Exif SubIFD - 0x9000] Exif Version = 2.31
+       [Exif SubIFD - 0x9003] Date/Time Original = 2020:04:17 10:03:42
+       [Exif SubIFD - 0x9004] Date/Time Digitized = 2020:04:17 10:03:42
+       [Exif SubIFD - 0x9010] Time Zone = -06:00
+       [Exif SubIFD - 0x9011] Time Zone Original = -06:00
+       [Exif SubIFD - 0x9012] Time Zone Digitized = -06:00
+       [Exif SubIFD - 0x9101] Components Configuration = YCbCr
+       [Exif SubIFD - 0x9201] Shutter Speed Value = 1/60 sec
+       [Exif SubIFD - 0x9202] Aperture Value = f/1.8
+       [Exif SubIFD - 0x9203] Brightness Value = 1.454
+       [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+       [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+       [Exif SubIFD - 0x9209] Flash = Flash did not fire
+       [Exif SubIFD - 0x920a] Focal Length = 4.3 mm
+       [Exif SubIFD - 0x9291] Sub-Sec Time Original = 770
+       [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 770
+       [Exif SubIFD - 0xa000] FlashPix Version = 1.00
+       [Exif SubIFD - 0xa001] Color Space = Undefined
+       [Exif SubIFD - 0xa002] Exif Image Width = 4032 pixels
+       [Exif SubIFD - 0xa003] Exif Image Height = 3024 pixels
+       [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+       [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+       [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+       [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+       [Exif SubIFD - 0xa405] Focal Length 35 = 26 mm
+       [Exif SubIFD - 0xa406] Scene Capture Type = Standard
+       [Exif SubIFD - 0xa432] Lens Specification = 4.25mm f/1.8
+       [Exif SubIFD - 0xa433] Lens Make = Apple
+       [Exif SubIFD - 0xa434] Lens Model = iPhone XR back camera 4.25mm f/1.8
+       
+JAVA   [Apple Makernote - 0x0001] Unknown tag (0x0001) = 11
+JAVA   [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
+JAVA   [Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
+JAVA   [Apple Makernote - 0x0005] Unknown tag (0x0005) = 182
+JAVA   [Apple Makernote - 0x0006] Unknown tag (0x0006) = 185
+JAVA   [Apple Makernote - 0x0007] Unknown tag (0x0007) = 1
+DOTNET [Apple Makernote - 0x0001] Makernote Version = 11
+DOTNET [Apple Makernote - 0x0002] AE Matrix = [558 values]
+DOTNET [Apple Makernote - 0x0004] AE Stable = Yes
+DOTNET [Apple Makernote - 0x0005] AE Target = 182
+DOTNET [Apple Makernote - 0x0006] AE Average = 185
+DOTNET [Apple Makernote - 0x0007] AF Stable = Yes
+       [Apple Makernote - 0x0008] Acceleration Vector = 0.11g right, 0.02g up, 0.98g backward
+       [Apple Makernote - 0x000b] Burst UUID = 520DEEC9-9311-433F-93C1-712D889853B5
+JAVA   [Apple Makernote - 0x000c] Unknown tag (0x000c) = 361/16 2741/256
+DOTNET [Apple Makernote - 0x000c] Focus Distance Range = 361/16 2741/256
+       [Apple Makernote - 0x000d] Unknown tag (0x000d) = 4
+       [Apple Makernote - 0x000e] Unknown tag (0x000e) = 0
+       [Apple Makernote - 0x0010] Unknown tag (0x0010) = 1
+JAVA   [Apple Makernote - 0x0014] Unknown tag (0x0014) = 1
+DOTNET [Apple Makernote - 0x0014] Image Capture Type = ProRAW
+       [Apple Makernote - 0x0017] Live Photo ID = 16384
+JAVA   [Apple Makernote - 0x0019] Unknown tag (0x0019) = 512
+DOTNET [Apple Makernote - 0x0019] Image Processing Flags = 512
+       [Apple Makernote - 0x001f] Unknown tag (0x001f) = 0
+JAVA   [Apple Makernote - 0x0020] Unknown tag (0x0020) = 07A81FC0-F1CC-435F-8331-72713A418BB7
+JAVA   [Apple Makernote - 0x0021] Unknown tag (0x0021) = 0
+DOTNET [Apple Makernote - 0x0020] Image Capture Request ID = 07A81FC0-F1CC-435F-8331-72713A418BB7
+DOTNET [Apple Makernote - 0x0021] HDR Headroom = 0
+       [Apple Makernote - 0x0023] Unknown tag (0x0023) = 19 268435549
+JAVA   [Apple Makernote - 0x0025] Unknown tag (0x0025) = 394
+JAVA   [Apple Makernote - 0x0026] Unknown tag (0x0026) = 1
+JAVA   [Apple Makernote - 0x0027] Unknown tag (0x0027) = 147404/7035
+JAVA   [Apple Makernote - 0x002b] Unknown tag (0x002b) = F73C0C29-BE46-420B-9C85-8053D8A20E47
+DOTNET [Apple Makernote - 0x0025] Scene Flags = 394
+DOTNET [Apple Makernote - 0x0026] Signal-to-Noise Ratio Type = 1
+DOTNET [Apple Makernote - 0x0027] Signal-to-Noise Ratio = 147404/7035
+DOTNET [Apple Makernote - 0x002b] Photo Identifier = F73C0C29-BE46-420B-9C85-8053D8A20E47
+       
+       [Apple Run Time - 0x0001] Flags = Valid
+       [Apple Run Time - 0x0002] Epoch = 0
+       [Apple Run Time - 0x0003] Scale = 1000000000
+       [Apple Run Time - 0x0004] Value = 456054 seconds
+       
+       [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+       [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+       [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+       [Exif Thumbnail - 0x0128] Resolution Unit = Inch
+       [Exif Thumbnail - 0x0201] Thumbnail Offset = 2050 bytes
+       [Exif Thumbnail - 0x0202] Thumbnail Length = 6852 bytes
+       
+       [ICC Profile - 0x0000] Profile Size = 548
+       [ICC Profile - 0x0004] CMM Type = appl
+       [ICC Profile - 0x0008] Version = 4.0.0
+       [ICC Profile - 0x000c] Class = Display Device
+       [ICC Profile - 0x0010] Color space = RGB 
+       [ICC Profile - 0x0014] Profile Connection Space = XYZ 
+       [ICC Profile - 0x0018] Profile Date/Time = 2017:07:07 13:22:32
+       [ICC Profile - 0x0024] Signature = acsp
+       [ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+       [ICC Profile - 0x0030] Device manufacturer = APPL
+       [ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+       [ICC Profile - 0x0080] Tag Count = 10
+       [ICC Profile - 0x64657363] Profile Description = Display P3
+       [ICC Profile - 0x63707274] Profile Copyright = Copyright Apple Inc., 2017
+       [ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
+       [ICC Profile - 0x7258595a] Red Colorant = (0.5151, 0.2412, 65536)
+       [ICC Profile - 0x6758595a] Green Colorant = (0.292, 0.6922, 0.0419)
+       [ICC Profile - 0x6258595a] Blue Colorant = (0.1571, 0.0666, 0.7841)
+       [ICC Profile - 0x72545243] Red TRC = para (0x70617261): 32 bytes
+       [ICC Profile - 0x63686164] Chromatic Adaptation = sf32 (0x73663332): 44 bytes
+       [ICC Profile - 0x62545243] Blue TRC = para (0x70617261): 32 bytes
+       [ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
+       
+       [Huffman - 0x0001] Number of Tables = 4 Huffman tables
+       
+       [File Type - 0x0001] Detected File Type Name = JPEG
+       [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+       [File Type - 0x0003] Detected MIME Type = image/jpeg
+       [File Type - 0x0004] Expected File Name Extension = jpg
+       
+       [File - 0x0001] File Name = IMG_3586.JPG
+       [File - 0x0002] File Size = 1915418 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+       - JPEG
+       - Exif IFD0
+           - Exif SubIFD
+               - Apple Makernote
+                   - Apple Run Time
+           - Exif Thumbnail
+       - ICC Profile
+       - Huffman
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       
