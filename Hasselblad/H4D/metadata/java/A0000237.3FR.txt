@@ -1,5 +1,5 @@
 FILE: A0000237.3FR
-TYPE: ARW
+TYPE: THREEFR
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif IFD0 - 0x0100] Image Width = 320 pixels
@@ -54,9 +54,10 @@ TYPE: ARW
 [Exif SubIFD - 0x927c] Makernote = [428 values]
 [Exif SubIFD - 0xa420] Unique Image ID = 00000000000000000271FF4D0000E133
 
-[File Type - 0x0001] Detected File Type Name = ARW
-[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-[File Type - 0x0004] Expected File Name Extension = arw
+[File Type - 0x0001] Detected File Type Name = 3FR
+[File Type - 0x0002] Detected File Type Long Name = Hasselblad Raw
+[File Type - 0x0003] Detected MIME Type = image/x-hasselblad-3fr
+[File Type - 0x0004] Expected File Name Extension = 3fr
 
 [File - 0x0001] File Name = A0000237.3FR
 [File - 0x0002] File Size = 42752000 bytes

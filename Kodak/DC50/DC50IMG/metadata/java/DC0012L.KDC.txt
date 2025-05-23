@@ -1,5 +1,5 @@
 FILE: DC0012L.KDC
-TYPE: TIFF
+TYPE: KDC
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif IFD0 - 0x0100] Image Width = 96 pixels
@@ -56,10 +56,10 @@ TYPE: TIFF
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 2.43 bits/pixel
 [Exif SubIFD - 0x9218] Unknown tag (0x9218) = 0/100000 18125/10000 -33650/100000 -47600/100000 0/100000 -43500/100000 18520/10000 -41700/100000 0/100000 -67600/100000 -13930/10000 30690/10000
 
-[File Type - 0x0001] Detected File Type Name = TIFF
-[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
-[File Type - 0x0003] Detected MIME Type = image/tiff
-[File Type - 0x0004] Expected File Name Extension = tiff
+[File Type - 0x0001] Detected File Type Name = KDC
+[File Type - 0x0002] Detected File Type Long Name = Kodak Raw
+[File Type - 0x0003] Detected MIME Type = image/x-kodak-kdc
+[File Type - 0x0004] Expected File Name Extension = kdc
 
 [File - 0x0001] File Name = DC0012L.KDC
 [File - 0x0002] File Size = 97464 bytes

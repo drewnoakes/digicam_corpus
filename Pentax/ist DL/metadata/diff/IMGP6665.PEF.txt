@@ -1,5 +1,5 @@
        FILE: IMGP6665.PEF
-       TYPE: TIFF
+       TYPE: PEF
        
        [Exif IFD0 - 0x0100] Image Width = 3040 pixels
        [Exif IFD0 - 0x0101] Image Height = 2024 pixels
@@ -153,10 +153,10 @@ DOTNET [Exif Image - 0x0128] Resolution Unit = Inch
 DOTNET [Exif Image - 0x0201] Unknown tag (0x0201) = 9303262
 DOTNET [Exif Image - 0x0202] Unknown tag (0x0202) = 901622
        
-       [File Type - 0x0001] Detected File Type Name = TIFF
-       [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
-       [File Type - 0x0003] Detected MIME Type = image/tiff
-       [File Type - 0x0004] Expected File Name Extension = tiff
+       [File Type - 0x0001] Detected File Type Name = PEF
+       [File Type - 0x0002] Detected File Type Long Name = Pentax Raw
+       [File Type - 0x0003] Detected MIME Type = image/x-pentax-pef
+       [File Type - 0x0004] Expected File Name Extension = pef
        
        [File - 0x0001] File Name = IMGP6665.PEF
        [File - 0x0002] File Size = 10204884 bytes

@@ -1,5 +1,5 @@
 FILE: DSC00002.TIF
-TYPE: ARW
+TYPE: TIFF
 
 [Exif IFD0 - 0x0100] Image Width = 2048 pixels
 [Exif IFD0 - 0x0101] Image Height = 1536 pixels
@@ -38,9 +38,10 @@ TYPE: ARW
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
 
-[File Type - 0x0001] Detected File Type Name = ARW
-[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-[File Type - 0x0004] Expected File Name Extension = arw
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
 
 [File - 0x0001] File Name = DSC00002.TIF
 [File - 0x0002] File Size = 9439344 bytes

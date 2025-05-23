@@ -1,5 +1,5 @@
 FILE: 102_0002.KDC
-TYPE: ARW
+TYPE: KDC
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0103] Compression = JPEG
@@ -56,7 +56,7 @@ TYPE: ARW
 [Exif SubIFD - 0x9000] Exif Version = 2.21
 [Exif SubIFD - 0x9003] Date/Time Original = 2010:01:01 12:15:27
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2010:01:01 12:15:27
-[Exif SubIFD - 0x9201] Shutter Speed Value = 1/29 sec
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/30 sec
 [Exif SubIFD - 0x9202] Aperture Value = f/2.8
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
@@ -83,9 +83,10 @@ TYPE: ARW
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 
-[File Type - 0x0001] Detected File Type Name = ARW
-[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-[File Type - 0x0004] Expected File Name Extension = arw
+[File Type - 0x0001] Detected File Type Name = KDC
+[File Type - 0x0002] Detected File Type Long Name = Kodak Raw
+[File Type - 0x0003] Detected MIME Type = image/x-kodak-kdc
+[File Type - 0x0004] Expected File Name Extension = kdc
 
 [File - 0x0001] File Name = 102_0002.KDC
 [File - 0x0002] File Size = 25768876 bytes

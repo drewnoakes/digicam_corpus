@@ -1,5 +1,5 @@
 FILE: GOPR8513.GPR
-TYPE: ARW
+TYPE: GOPRO
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 4000 pixels
@@ -89,9 +89,10 @@ TYPE: ARW
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = Hard
 
-[File Type - 0x0001] Detected File Type Name = ARW
-[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-[File Type - 0x0004] Expected File Name Extension = arw
+[File Type - 0x0001] Detected File Type Name = GPR
+[File Type - 0x0002] Detected File Type Long Name = GoPro Raw
+[File Type - 0x0003] Detected MIME Type = image/x-gopro-gpr
+[File Type - 0x0004] Expected File Name Extension = gpr
 
 [File - 0x0001] File Name = GOPR8513.GPR
 [File - 0x0002] File Size = 2799614 bytes
